@@ -70,7 +70,7 @@ git --version
 xcode-select --install
 ```
 
-## 3. Miniforge 설치 (가상환경용 conda)
+## 3. Miniforge 설치 (가상환경용 conda) conda forge로 대체하여 사용
 
 이 프로젝트는 파이썬 패키지들을 컴퓨터의 다른 프로그램과 섞이지 않게
 가상환경(격리된 폴더)에 설치합니다. 이를 위해 [Miniforge](https://github.com/conda-forge/miniforge)(가벼운
